@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+sup??
+my first github working on. 
+likes CUDA, VHDL, C, Python, MATLAB.
